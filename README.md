@@ -11,5 +11,5 @@ https://www.python.org/downloads/
 
 installed, follow step first.
 
-#################################################################################
+#########################################################################################################################################################################
 Done instalation, going to available packages, search "opencv-python" and install on your machine. Done, create a file with the following format: (file.py) and test the code bellow:
